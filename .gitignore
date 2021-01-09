@@ -27,4 +27,4 @@ composer.lock
 /vendors/*
 
 
-/nbproject/private/
+/nbproject/*
